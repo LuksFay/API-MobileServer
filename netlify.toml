@@ -1,0 +1,3 @@
+[build]
+command = "node server.js"
+publish = "/"

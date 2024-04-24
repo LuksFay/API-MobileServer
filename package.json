@@ -1,0 +1,14 @@
+{
+  "name": "api-mobileserver",
+  "version": "1.0.0",
+  "description": "This is a test using 2 smartphones, one will be the server running all the time, this project will be the API running freely in netlify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luksfay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
